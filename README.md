@@ -1,10 +1,10 @@
 # Anysphere for Neovim
 
-A colorscheme for Neovim inspired by the [Cursor Anysphere theme](https://github.com/hasokeric/cursor-anysphere-theme)
+A colorscheme for Neovim inspired by the [Cursor Anysphere theme](https://github.com/hasokeric/cursor-anysphere-theme). Includes support for [treesitter](https://github.com/nvim-treesitter/nvim-treesitter) and [semantic highlights](https://neovim.io/doc/user/lsp.html#lsp-semantic-highlight).
 
 ![Theme Screenshot](./.github/screenshot.png)
 
-Most of the project structure was taken from [gruvbox.nvim](https://github.com/ellisonleao/gruvbox.nvim)
+The lua code and project structure were taken from [gruvbox.nvim](https://github.com/ellisonleao/gruvbox.nvim), including (most) available configuration options.
 
 ## Installing
 
