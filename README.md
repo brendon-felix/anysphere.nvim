@@ -2,27 +2,27 @@
 
 Colorscheme for Neovim inspired by Anysphere Dark for Cursor AI.
 
-# Installing
+## Installing
 
-## Using `packer`
+### Using `packer`
 
 ```lua
 use { "brendon-felix/anysphere.nvim" }
 ```
 
-## Using `lazy.nvim`
+### Using `lazy.nvim`
 
 ```lua
 { "brendon-felix/anysphere.nvim", priority = 1000 , config = true, opts = ...}
 ```
 
-## Using `vim-plug`
+### Using `vim-plug`
 
 ```vim
 Plug 'brendon-felix/anysphere.nvim'
 ```
 
-# Basic Usage
+## Basic Usage
 
 Inside `init.vim`
 
