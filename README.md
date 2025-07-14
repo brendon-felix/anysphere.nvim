@@ -1,6 +1,8 @@
 # Anysphere for Neovim
 
-Colorscheme for Neovim inspired by Anysphere Dark for Cursor AI.
+A colorscheme for Neovim inspired by the [Cursor Anysphere theme](https://github.com/hasokeric/cursor-anysphere-theme)
+
+Most of the project structure was taken from [gruvbox.nvim](https://github.com/ellisonleao/gruvbox.nvim)
 
 ## Installing
 
