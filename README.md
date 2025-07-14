@@ -2,6 +2,8 @@
 
 A colorscheme for Neovim inspired by the [Cursor Anysphere theme](https://github.com/hasokeric/cursor-anysphere-theme)
 
+![Theme Screenshot](./.github/screenshot.png)
+
 Most of the project structure was taken from [gruvbox.nvim](https://github.com/ellisonleao/gruvbox.nvim)
 
 ## Installing
